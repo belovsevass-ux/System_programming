@@ -23,5 +23,5 @@ print_loop:
     int 0x80
 
 segment readable writeable
-S db 'AMVtdiYVETHnNhuYwnWDVBqL'
+S db 'AMVtdiYVETHnNhuYsgrkgRDSny'
 len_S = $ - S
