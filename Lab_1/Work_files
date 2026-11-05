@@ -1,0 +1,58 @@
+]633;D;0]633;P;Cwd=/workspaces/System_programming[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming [0;36m([1;31mmain[0;36m) [0m$ ]633;B
+[?2004l]633;E;;d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D]633;P;Cwd=/workspaces/System_programming[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mmkdir -p "Work/Лабораторная работа №1!" "Work/ФИО"[27mmkdir -p "Work/Лабораторная работа №1!" "Work/ФИО"
+[?2004l]633;E;mkdir -p "Work/Лабораторная работа №1!" "Work/ФИО";d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D;0]633;P;Cwd=/workspaces/System_programming[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mchmod 773 "Work/Лабораторная работа №1!"[27m
+[7mchmod 200 "Work/ФИО"[27m[A]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming [0;36m([1;31mmain[0;36m) [0m$ ]633;Bchmod 773 "Work/Лабораторная работа №1!"
+chmod 200 "Work/ФИО"
+[?2004l]633;E;chmod 773 "Work/Лабораторная работа №1!";d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D;0]633;P;Cwd=/workspaces/System_programming[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mcd Work[27m
+[7mtouch "Text @1" 'Text $2' 'Text  #3'[27m[A]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming [0;36m([1;31mmain[0;36m) [0m$ ]633;Bcd Work
+touch "Text @1" 'Text $2' 'Text  #3'
+[?2004l]633;E;cd Work;d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D;0]633;P;Cwd=/workspaces/System_programming/Work[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mcat "Text @1" > 'Text $2'[27mcat "Text @1" > 'Text $2'
+[?2004l]633;E;cat "Text @1" > 'Text $2';d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D;0]633;P;Cwd=/workspaces/System_programming/Work[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mcat "Text @1" > 'Text $2'[27mcat "Text @1" > 'Text $2'
+[?2004l]633;E;cat "Text @1" > 'Text $2';d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D;0]633;P;Cwd=/workspaces/System_programming/Work[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mmv 'Text $2' "Лабораторная работа №1!/"[27m
+[7mcp "Text @1" "ФИО/"[27m[A]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;Bmv 'Text $2' "Лабораторная работа №1!/"
+cp "Text @1" "ФИО/"
+[?2004lbash: !/: event not found
+]633;E;cp "Text @1" "ФИО/";d4cab96d-ab3c-4407-9b56-08d5961fc377]633;Ccp: cannot stat 'ФИО/Text @1': Permission denied
+]633;D;1]633;P;Cwd=/workspaces/System_programming/Work[?2004h]633;A[0;32m@belovsevass-ux [1;31m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mmv 'Text $2' 'Лабораторная работа №1!/'[27m
+[7mcp "Text @1" "ФИО/"[27m[A]633;A[0;32m@belovsevass-ux [1;31m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;Bmv 'Text $2' 'Лабораторная работа №1!/'
+cp "Text @1" "ФИО/"
+[?2004l]633;E;mv 'Text $2' 'Лабораторная работа №1!/';d4cab96d-ab3c-4407-9b56-08d5961fc377]633;Ccp: cannot stat 'ФИО/Text @1': Permission denied
+]633;D;1]633;P;Cwd=/workspaces/System_programming/Work[?2004h]633;A[0;32m@belovsevass-ux [1;31m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B\[K[7mcat "Text @1" > "ФИО/Text @1"[27mcat "Text @1" > "ФИО/Text @1"
+[?2004l]633;E;cat "Text @1" > "ФИО/Text @1";d4cab96d-ab3c-4407-9b56-08d5961fc377]633;Cbash: ФИО/Text @1: Permission denied
+]633;D;1]633;P;Cwd=/workspaces/System_programming/Work[?2004h]633;A[0;32m@belovsevass-ux [1;31m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mchmod 300 "ФИО"[27m
+[7mcat "Text @1" > "ФИО/Text @1"[27m[A]633;A[0;32m@belovsevass-ux [1;31m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;Bchmod 300 "ФИО"
+cat "Text @1" > "ФИО/Text @1"
+[?2004l]633;E;chmod 300 "ФИО";d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D;0]633;P;Cwd=/workspaces/System_programming/Work[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mchmod 200 "ФИО"[27mchmod 200 "ФИО"
+[?2004l]633;E;chmod 200 "ФИО";d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D;0]633;P;Cwd=/workspaces/System_programming/Work[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mgzip "Text @1" 'Text  #3'[27m
+[7mtar -cvf MyArchive.tar "Text @1.gz" 'Text  #3.gz'[27m[A]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;Bgzip "Text @1" 'Text  #3'
+tar -cvf MyArchive.tar "Text @1.gz" 'Text  #3.gz'
+[?2004l]633;E;gzip "Text @1" 'Text  #3';d4cab96d-ab3c-4407-9b56-08d5961fc377]633;CText @1.gz
+Text  #3.gz
+]633;D;0]633;P;Cwd=/workspaces/System_programming/Work[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mgunzip "Text @1.gz"[27m
+[7mhead -n 1 "Text @1" > temp.txt[27m
+[7mcat 'Text  #3.gz' >> temp.txt[27m
+[7mmv temp.txt 'Text  #3.gz'[27m[A[A[A]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;Bgunzip "Text @1.gz"
+head -n 1 "Text @1" > temp.txt
+cat 'Text  #3.gz' >> temp.txt
+mv temp.txt 'Text  #3.gz'
+[?2004l]633;E;gunzip "Text @1.gz";d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D;0]633;P;Cwd=/workspaces/System_programming/Work[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mchmod 300 "ФИО"[27m
+[7mtac "Text @1" > "ФИО/Result_one"[27m
+[7mmv "ФИО/Result_one" "ФИО/Result_two"[27m
+[7mchmod 200 "ФИО"[27m[A[A[A]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;Bchmod 300 "ФИО"
+tac "Text @1" > "ФИО/Result_one"
+mv "ФИО/Result_one" "ФИО/Result_two"
+chmod 200 "ФИО"
+[?2004l]633;E;chmod 300 "ФИО";d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D;0]633;P;Cwd=/workspaces/System_programming/Work[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mfind "ФИО" -maxdepth 1 -name 'T*' -exec ls -ld {} \; > "Лабо[27m[7mр[27m[7mаторная работа №1!/Result_3"[27m[A]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;Bfind "ФИО" -maxdepth 1 -name 'T*' -exec ls -ld {} \; > "Лабораторная работа №1!/Result_3"
+[?2004lbash: !/Result_3: event not found
+[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7m{ uname -a; date; } >> "Лабораторная работа №1!/Result_3"[27m{ uname -a; date; } >> "Лабораторная работа №1!/Result_3"
+[?2004lbash: !/Result_3: event not found
+[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;Bъ[K[7mcd /workspaces/System_programming[27m
+[7mmkdir -p Lab_1[27m[A]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming/Work [0;36m([1;31mmain[0;36m) [0m$ ]633;Bcd /workspaces/System_programming
+mkdir -p Lab_1
+[?2004l]633;E;cd /workspaces/System_programming;d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D;0]633;P;Cwd=/workspaces/System_programming[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mmv sandbox Work Work_files Lab_1/[27mmv sandbox Work Work_files Lab_1/
+[?2004l]633;E;mv sandbox Work Work_files Lab_1/;d4cab96d-ab3c-4407-9b56-08d5961fc377]633;C]633;D;0]633;P;Cwd=/workspaces/System_programming[?2004h]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming [0;36m([1;31mmain[0;36m) [0m$ ]633;B[7mgit add .[27m
+[7mgit commit -m "Выполнена лабораторная работа 1"[27m
+[7mgit push[27m[A[A]633;A[0;32m@belovsevass-ux [0m➜ [1;34m/workspaces/System_programming [0;36m([1;31mmain[0;36m) [0m$ ]633;Bgit add .
+git commit -m "Выполнена лабораторная работа 1"
+git push
+[?2004l]633;E;git add .;d4cab96d-ab3c-4407-9b56-08d5961fc377]633;Cwarning: could not open directory 'Lab_1/Work/ФИО/': Permission denied
